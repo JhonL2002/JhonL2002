@@ -43,12 +43,19 @@
 | **MiniDropBoxDBTools** | Scripts para administrar backups y restauraciones de una base transaccional en SQL Server/Azure SQL |
 | **MiniDropBox** | API en .Net con lógica de administración de ficheros, login seguro y guardado de blobs en Azure Blob Storage |
 
-## Estadísticas
+## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonL2002&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonL2002&theme=tokyonight" />
+  <!-- Stats principales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonL2002&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de JhonL2002" />
+  <br/><br/>
+
+  <!-- Racha de commits -->
+  <img src="https://streak-stats.demolab.com/?user=JhonL2002&theme=tokyonight" alt="Racha de commits de JhonL2002" />
+  <br/><br/>
+
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonL2002&layout=compact&theme=tokyonight" alt="Lenguajes más usados por JhonL2002" />
 </p>
 
 ---
